@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+body{
+    background: #E5E5E5;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2D548D;
+}
+.Labor{
+    padding: 20px 20px 25px 40px;
+    color: #FBFCFE;
+}
+/* .link{
+    width: 50%;
+    padding: 25px 20px 25px 300px;
+} */
+.link a {
+    text-decoration: none;
+    color: #FBFCFE;
+    padding: 0px 20px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left{
+    padding: 0px 0px 0px 30px;
+}
+/* .right{
+   
+} */
+#link{
+    padding: 20px 0px;
+}
+.right a {
+    text-decoration: none;
+    color: #2D548D;
+}
+.Us {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #04070C;
+    padding: 0px 8px;
+}
+#row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#left{
+    padding: 100px 30px 0px 100px;
+}
+#right{
+   padding: 50px 80px 0px 100px;
+}
+.add{
+    color: #DA241E;
+    font-size: 35px;
+    font-weight: 700;
+}
+.screen{
+    color: #04070C;
+    font-size: 16px;
+    padding: 16px 0px;
+    text-align: justify;
+}
+#button {
+    display: flex;
+}
+#but{
+    margin-right: 30px;
+}
+.but{
+    background: #2D548D;
+    padding: 12px 48px;
+    border-radius: 8px;
+    color: #FBFCFE;
+    border: 1px solid #2D548D;
+    cursor: pointer;
+}
+.ton{
+    background: #E5E5E5;
+    padding: 12px 48px;
+    cursor: pointer;
+    border: 1px solid #2D548D;
+    border-radius: 8px;
+    color: #2D548D;
+}
